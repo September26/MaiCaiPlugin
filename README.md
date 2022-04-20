@@ -40,11 +40,11 @@
 
 ### 实现原理
 
-请见[技术文档](待补充)，注意文档描述的是dev分支(已弃用)的具体实现，而不是stable分支。若有疑问，请在[ISSUES](https://github.com/September26/MaiCaiPlugin/issues)中提出。
+请见[技术文档](待补充)，若有疑问，请在[ISSUES](https://github.com/September26/MaiCaiPlugin/issues)中提出。
 
 ### 更新日志
 
-完整的更新日志请见[CHANGELOG](https://github.com/September26/MaiCaiPlugin/blob/stable/CHANGELOG.md)。
+完整的更新日志请见[CHANGELOG](https://github.com/September26/MaiCaiPlugin/CHANGELOG.md)。
 
 ### **版权及免责声明**
 
