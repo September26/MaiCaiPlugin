@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeWindowStateChanged|typeWindowContentChanged|typeNotificationStateChanged"
+    android:accessibilityFeedbackType="feedbackAllMask"
+    android:accessibilityFlags="flagDefault|flagRetrieveInteractiveWindows|flagIncludeNotImportantViews"
+    android:canPerformGestures="true"
+    android:canRetrieveWindowContent="true"
+    android:description="@string/app_description"
+    android:notificationTimeout="10"
+    android:packageNames="com.tencent.mm,com.android.systemui,com.xt.client,com.yaya.zone,com.xt.maicai"
+    android:settingsActivity="com.monkeytong.riz.activities.SettingsActivity" />
